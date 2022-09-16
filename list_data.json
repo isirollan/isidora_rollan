@@ -1,22 +1,32 @@
 {
-	"movies": [
+	"books": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "1Q84",
+			"Author": "Haruki Murakami",
+			"Theme": "Fiction, parallel universes",
+			"Type": "Novel",
+			"Summary": "It is about a women called Aomame that start to see weird things in her world and enter a parallel existence."
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "My Brilliant Friend",
+			"Author": "Elena Ferrante",
+			"Theme": "Fiction",
+			"Type": "Novel",
+			"Summary": "In four books, tells the story of two close friends throughout their lives in Naples."
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "Freedom and Midnight",
+			"Author": "Dominique Lapierre and Larry Collins",
+			"Theme": "Non-fiction, History",
+			"Type": "Novel",
+			"Summary": "Tells the tragic story of India Independence and partition and includes real conversations with many of the protagonists."
+		},
+		{
+			"Title": "The Girl with the Dragon Tattoo ",
+			"Author": "Stieg Larsson",
+			"Theme": "Fiction, Thriller, Suspense",
+			"Type": "Novel",
+			"Summary": "This saga is about a journalist called Mikael Blomkvist that is hired by Henrik Vanger to uncovered Harriett Vanger's disappearence."
 		}
 	]
 }
